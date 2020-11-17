@@ -10,4 +10,4 @@ Standard genetic algorithms are divided into five phases which are:
 4)Crossing over.
 5)Mutating to introduce variations.
 
-Branch
+Pull
